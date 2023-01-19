@@ -5,7 +5,7 @@ The task here was to create a timed JavaScript quiz that saves your highscores, 
 
 ## Acceptance Criteria
 <p> GIVEN I am taking a code quiz <p>
-WHEN I click the start button
+<p> WHEN I click the start button <p>
 THEN a timer starts and I am presented with a question
 WHEN I answer a question
 THEN I am presented with another question
