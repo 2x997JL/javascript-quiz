@@ -1,11 +1,11 @@
-## JavaScript-Quiz
+# JavaScript-Quiz
 
 ## Description 
 The task here was to create a timed JavaScript quiz that saves your highscores, and penalizes you for wrong answers. Javascript was the main focus for this task in order to have all operations operating when the website is prompted to be used. 
 
 ## Acceptance Criteria
-# GIVEN I am taking a code quiz
-# WHEN I click the start button
+<p> GIVEN I am taking a code quiz <p>
+WHEN I click the start button
 THEN a timer starts and I am presented with a question
 WHEN I answer a question
 THEN I am presented with another question
