@@ -9,9 +9,9 @@ The task here was to create a timed JavaScript quiz that saves your highscores, 
 <br> THEN a timer starts and I am presented with a question <br>
 <br> WHEN I answer a question <br>
 <br> THEN I am presented with another question <br>
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
+<WHEN I answer a question incorrectly>
+<THEN time is subtracted from the clock>
+<WHEN all questions are answered or the timer reaches 0>
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
