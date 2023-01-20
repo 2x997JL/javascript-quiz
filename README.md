@@ -4,11 +4,11 @@
 The task here was to create a timed JavaScript quiz that saves your highscores, and penalizes you for wrong answers. Javascript was the main focus for this task in order to have all operations operating when the website is prompted to be used. 
 
 ## Acceptance Criteria
-<p> GIVEN I am taking a code quiz <p>
-<p> WHEN I click the start button <p>
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
+<br> GIVEN I am taking a code quiz <br>
+<br> WHEN I click the start button <br>
+<br> THEN a timer starts and I am presented with a question <br>
+<br> WHEN I answer a question <br>
+<br> THEN I am presented with another question <br>
 WHEN I answer a question incorrectly
 THEN time is subtracted from the clock
 WHEN all questions are answered or the timer reaches 0
